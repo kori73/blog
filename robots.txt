@@ -1,1 +1,1 @@
-Sitemap: https://ichy.io/sitemap.xml
+Sitemap: http://ichy.io/sitemap.xml
